@@ -1,4 +1,4 @@
-name: HoloCard Price Update Robot
+name: update_robot.js
 
 on:
   schedule:
